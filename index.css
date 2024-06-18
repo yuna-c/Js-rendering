@@ -26,5 +26,5 @@ body{ height:100%; }
 .wrap ul{ margin-top:20px; text-align: center; }
 .wrap ul li{ margin:10px 20px; padding:10px 20px; border:1px solid #000; border-radius:8px; }
 .wrap ul li h3{ font-size:20px; margin-bottom:10px; }
-.wrap ul li.color{ background-color:rgba(139, 0, 139, 0.397); }
+.wrap ul li.color{ background-color:rgba(139, 0, 139, 0.171); }
 
